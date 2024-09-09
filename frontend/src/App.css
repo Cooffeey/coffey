@@ -1,0 +1,21 @@
+body {
+    background-color: #121212; /* Темный фон */
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    padding-bottom: 60px; /* Оставляем место для нижней навигации */
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+p {
+    color: #b3b3b3;
+    text-align: center;
+}
